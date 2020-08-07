@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MandıraOtomasyonu", "MandıraOtomasyonu\MandıraOtomasyonu.csproj", "{27F39854-E9B4-446F-959E-F5CF1A6C7D60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F39854-E9B4-446F-959E-F5CF1A6C7D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F39854-E9B4-446F-959E-F5CF1A6C7D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F39854-E9B4-446F-959E-F5CF1A6C7D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F39854-E9B4-446F-959E-F5CF1A6C7D60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08C0716F-07FB-4675-94A0-39548022562B}
+	EndGlobalSection
+EndGlobal
